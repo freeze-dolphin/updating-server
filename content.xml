@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<serverPath>https://github.com/freeze-dolphin/updating-server/</serverPath>
+<rootPath>repository/</rootPath>
+<versionFile>versions.xml</versionFile>
+
+<repositories>
+    <repository key="UltimateGenerators">
+        ${serverPath}${rootPath}UltimateGenerators/${versionFile}
+    </repository>
+</repositories>
