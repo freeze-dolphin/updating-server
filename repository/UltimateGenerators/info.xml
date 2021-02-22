@@ -2,7 +2,9 @@
 <info>
     <versions>
         <version key="1.0.5">
-            Rainbow Generator Update
+            <name>Rainbow Generator Update</name>
+            <desc>see the release page for more information</desc>
+            <url>https://github.com/freeze-dolphin/UltimateGenerators/releases</url>
         </version>
     </versions>
 
