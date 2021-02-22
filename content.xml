@@ -5,7 +5,8 @@
 <versionFile>versions.xml</versionFile>
 
 <repositories>
-    <repository key="UltimateGenerators">
+    <repository name="UltimateGenerators">
         ${serverPath}${rootPath}UltimateGenerators/${versionFile}
     </repository>
 </repositories>
+
