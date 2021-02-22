@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<serverPath>https://github.com/freeze-dolphin/updating-server/</serverPath>
+<serverPath>https://raw.githubusercontent.com/freeze-dolphin/updating-server/master/</serverPath>
 <rootPath>repository/</rootPath>
 <versionFile>versions.xml</versionFile>
 
