@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <content>
     <repositories>
-        <repository name="UltimateGenerators">https://gitee.com/freeze-dolphin/updating-server/raw/master/repository/UltimateGenerators/info.xml</repository>
+        <repository name="UltimateGenerators">https://raw.fastgit.org/freeze-dolphin/updating-server/master/repository/UltimateGenerators/info.xml</repository>
     </repositories>
 </content>
 
