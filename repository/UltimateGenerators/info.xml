@@ -4,10 +4,14 @@
         <version key="1.0.5">
             <name>Rainbow Generator Update</name>
             <desc>see the release page for more information</desc>
-            <url>https://github.com/freeze-dolphin/UltimateGenerators/releases</url>
+            <url>https://github.com/freeze-dolphin/UltimateGenerators/releases/tag/v1.0.5</url>
         </version>
+        <version key="1.0.6">
+            <name>Bug Fixes</name>
+            <desc>see the release page for more information</desc>
+            <url>https://github.com/freeze-dolphin/UltimateGenerators/releases/tag/v1.0.6</url>
     </versions>
 
-    <latest>1.0.5</latest>
+    <latest>1.0.6</latest>
 </info>
 
